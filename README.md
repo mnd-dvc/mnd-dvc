@@ -1,6 +1,5 @@
 
-
-### - 👋 Hi there, I’m Mehmet Nur Devecioğlu
+- 👋 Hi there, I’m Mehmet Nur Devecioğlu
 - 👀 I’m interested in JavaScript, React.js and SQL
 - 🌱 I’m currently learning React.js
 - 🌍 I'm addicted to learning
