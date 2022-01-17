@@ -4,7 +4,7 @@ I'm Mehmet from Turkey, and I'm a Front-end Developer. I really enjoy learning l
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnd-dvc)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi, I’m Melis Şefikoğlu
-- 👀 I’m interested in Java, JavaScript, React.js and SQL
+- 👋 Hi, I’m Mehmet Nur Devecioğlu
+- 👀 I’m interested in JavaScript, React.js and SQL
 - 🌱 I’m currently learning React.js
 - 🌍 I'm addicted to learning
